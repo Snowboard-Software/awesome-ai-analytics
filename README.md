@@ -9,11 +9,11 @@ Table is filled based on information on companys landing page.
 |--------------|--------------------------------------|------------|-------------|-------|-------|-------|-------|--------|--------|
 | [Dot](https://www.getdot.ai/)  | Dot, the data bot enables true Analytics Self-Service for business stakeholders. Free your data team to focus on high impact tasks by automating ad-hoc requests and more.    | ✅     |      |✅|✅| |✅|✅|✅|
 | [TextQL](https://www.textql.com/) | Ana is your team's personal data scientist |      |      |✅|✅| |✅|✅|
-| [Fluent](https://www.fluenthq.com)| Self-serve your company's data insights with AI |      |      |✅|✅| |✅||
 | [dataherald](https://www.dataherald.com/) | Embed Text-to-SQL right  into your product with our versatile API. Get started free | ✅ | ✅| ✅| | |✅| | |
 | [Langchain SQL Agent](https://python.langchain.com/docs/use_cases/sql/agents/) | LangChain has a SQL Agent which provides a more flexible way of interacting with SQL Databases than a chain. |  |  ✅ | || |✅||✅|
 | [Vanna](https://vanna.ai/) | The revolutionary open source Python package that's changing the game in SQL database interaction | ✅ | ✅ | | | | ✅ |||
 | [SQLChat](https://www.sqlchat.ai/) | Chat-based SQL Client and Editor for the next decade | ✅ | ✅ | | | |✅ | | |
+| [Fluent](https://www.fluenthq.com)| Self-serve your company's data insights with AI |      |      |✅|✅| |✅||
 | [Julius](https://julius.ai/) | Chat with your files and get expert-level insights in seconds. | ✅ | | | | |✅| | ✅|
 | [VazyData](https://www.vazydata.com/) | Vazy is a simple and intuitive data analysis co-pilot that helps you manage your decisions with ease and speed. | ✅ | | ✅| | | ✅|||
 | [Defog](https://defog.ai/) | Speed up data analyses in SQL, Python and R with AI assistants and agents tailored for your business - without sharing your data. | ✅     |      | | | |✅| | |
