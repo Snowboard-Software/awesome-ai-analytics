@@ -30,11 +30,11 @@ Table is filled based on information on companys landing page.
 | [AskYourDatabase](https://www.askyourdatabase.com/) | No SQL, Connect your database and chat with your data in ChatGPT. | ✅ | | | | |✅ | | |
 | [ChatDB](https://www.chatdb.ai/) |  Build powerful, beautiful dashboards with no code! | ✅ | | | | |✅ | | |
 | [DataChat](https://datachat.ai/) | Meet the no-code, generative AI platform for instant analytics | ✅ | | | | |✅ | | |
+| [AI Lens](https://www.lensvisual.io/) | Supercharge Your Power BI Dashboards with OpenAI and ChatGPT | ✅ | | | | || || |
+| [InsightBase](https://insightbase.ai/) | Powerful AI-powered analytics for your business. | ✅ | | | | |✅ | | | 
 | [Louie](https://www.louie.ai/) | Make talking to data a breeze with a genAI-first design that helps you query, analyze, visualize, and collaborate | | | | | | ✅ ||
 | [TalkToYourDatabase](https://talktoyourdatabase.com/) | STOP WASTING YOUR TIME WRITING SQL | | | | | |✅ | | |
 | [number station](https://numbersstation.ai/) | Free the power of your data with Numbers Station, the multi-agent AI-native analytics platform. | | | | | ✅ | | |
-| [AI Lens](https://www.lensvisual.io/) | Supercharge Your Power BI Dashboards with OpenAI and ChatGPT | ✅ | | | | || || |
-
 
 
 Honourable Mentions of established tools that integreate AI and Natural Language Interfaces:
