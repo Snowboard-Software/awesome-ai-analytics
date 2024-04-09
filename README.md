@@ -53,6 +53,7 @@ Honourable Mentions of established tools that integreate AI and Natural Language
 - KaggleDBQA (Microsoft): https://www.microsoft.com/en-us/research/publication/kaggledbqa-realistic-evaluation-of-text-to-sql-parsers/
 - Fiben Benchmark (IBM): https://github.com/IBM/fiben-benchmark
 - UNITE, A Unified Benchmark for Text-to-SQL Evaluation (AWS): https://github.com/awslabs/unified-text2sql-benchmark
+- SQL Eval (Defog AI): https://github.com/defog-ai/sql-eval
 
 
 
