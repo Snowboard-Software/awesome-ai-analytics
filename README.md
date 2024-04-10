@@ -44,7 +44,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[number station](https://numbersstation.ai/)</summary>Free the power of your data with Numbers Station, the multi-agent AI-native analytics platform.</details> | | | | | | ✅ | | | |
 
 
-Honourable Mentions of established tools that integreate AI and Natural Language Interfaces:
+Honourable Mentions of established tools that integrate AI and Natural Language Interfaces:
 - [AWS Quicksight](https://aws.amazon.com/quicksight/) with [Natural Language Demo ](https://www.youtube.com/watch?v=0IBAS2GiWwo)
 - [PowerBI with QnA](https://powerbi.microsoft.com/fr-ca/blog/ask-your-data-questions-with-q-amp-a/)
 - [Tableau with Ask Data](https://help.tableau.com/current/pro/desktop/en-us/ask_data.htm)
