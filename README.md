@@ -8,7 +8,7 @@ A list of AI analytics tools (assistants, chat with data, text-to-sql models, be
 
 ## AI Analytics Assistants
 
-Table is filled based on information on companys landing page.
+Table is filled based on information on companys landing page.  
 Disclaimer: this repo is maintained by the organization behind Dot.
 
 | Name         | Free Trial | Open Source | Slack | Teams | Email | SQL | Semantic Layer | Python | File Upload |
@@ -73,4 +73,5 @@ Honourable Mentions of established tools that integreate AI and Natural Language
 - [SQL Eval (Defog AI)](https://github.com/defog-ai/sql-eval)
 
 
+Inspired by [Awesome-Code-AI](https://github.com/sourcegraph/awesome-code-ai).
 
