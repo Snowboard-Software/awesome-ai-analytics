@@ -41,7 +41,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[InsightBase](https://insightbase.ai/)</summary>Powerful AI-powered analytics for your business.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[Louie](https://www.louie.ai/)</summary>Make talking to data a breeze with a genAI-first design that helps you query, analyze, visualize, and collaborate</details> | | | | | | ✅ | | |
 | <details><summary>[TalkToYourDatabase](https://talktoyourdatabase.com/)</summary>STOP WASTING YOUR TIME WRITING SQL</details> | | | | | | ✅ | | |
-| <details><summary>[number station](https://numbersstation.ai/)</summary>Free the power of your data with Numbers Station, the multi-agent AI-native analytics platform.</details> | | | | | ✅ | | | |
+| <details><summary>[number station](https://numbersstation.ai/)</summary>Free the power of your data with Numbers Station, the multi-agent AI-native analytics platform.</details> | | | | | | ✅ | | | |
 
 
 Honourable Mentions of established tools that integreate AI and Natural Language Interfaces:
