@@ -57,6 +57,8 @@ Honourable Mentions of established tools that integrate AI and Natural Language 
 - [SQLCoder-70B-Alpha](https://huggingface.co/defog/sqlcoder-70b-alpha) (PostgreSQL)
 - [DuckDB-NSQL-7B](https://huggingface.co/motherduckdb/DuckDB-NSQL-7B-v0.1) (DuckDB)
 - [Natural-SQL-7B](https://huggingface.co/chatdb/natural-sql-7b) (PostgreSQL)
+- [Snowflake Arctic Instruct](https://huggingface.co/Snowflake/snowflake-arctic-instruct) (Snowflake)
+- [DBRX Instruct](https://huggingface.co/databricks/dbrx-instruct) (from Databricks, but so far not really good at Text 2 SQL)
 
 
 ## Synthetic Table Data Geneators
