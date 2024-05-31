@@ -33,6 +33,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[AIQuery](https://aiquery.co)</summary>Use simple English and let AI do the heavy lifting for you. With AI Query anyone can create efficient SQL queries, without even knowing a thing about it.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[SimplyPut](https://simplyput.ai/)</summary>SimplyPut empowers your company to chat with data using AI. Trust the answers you receive and make data accessible and understandable for all.</details> | | | ✅ | | | ✅ | | |
 | <details><summary>[Buster](https://www.buster.so/)</summary>Build, monitor, and deploy a SQL API that's trained on your database. Manage security, performance, and access controls from one place.</details> | ✅ | | | | | ✅ | | |
+| <details><summary>[Zenlytic](https://www.zenlytic.com/)</summary>Business Intelligence you can talk to. Tap into BI that answers your data questions in seconds, eliminating your reliance on a time-strapped analytics team. </details> | | | | | | ✅ | ✅ | | |
 | <details><summary>[SQLAI](https://www.sqlai.ai/)</summary>AI generates, fixes, explains and optimizes SQL queries. Add your database schema and effortlessly train AI to understand it using AI-powered vector search. This ensures unparalleled accuracy.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[AskYourDatabase](https://www.askyourdatabase.com/)</summary>No SQL, Connect your database and chat with your data in ChatGPT.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[ChatDB](https://www.chatdb.ai/)</summary>Build powerful, beautiful dashboards with no code!</details> | ✅ | | | | | ✅ | | |
@@ -42,6 +43,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[Louie](https://www.louie.ai/)</summary>Make talking to data a breeze with a genAI-first design that helps you query, analyze, visualize, and collaborate</details> | | | | | | ✅ | | |
 | <details><summary>[TalkToYourDatabase](https://talktoyourdatabase.com/)</summary>STOP WASTING YOUR TIME WRITING SQL</details> | | | | | | ✅ | | |
 | <details><summary>[number station](https://numbersstation.ai/)</summary>Free the power of your data with Numbers Station, the multi-agent AI-native analytics platform.</details> | | | | | | ✅ | | | |
+| <details><summary>[DataGPT](https://datagpt.com/)</summary>The First Conversational AI Data Analyst. Ask DataGPT any question and get analyst-grade answers in seconds.</details> | | | | | | ✅ | | | |
 
 
 Honourable Mentions of established tools that integrate AI and Natural Language Interfaces:
