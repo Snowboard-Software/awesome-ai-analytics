@@ -21,6 +21,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[OpenAI Data Analyst](https://chat.openai.com/g/g-HMNcP6w7d-data-analyst)</summary>Drop in any files and I can help analyze and visualize your data.</details> | ✅ | | | | | | | ✅ | ✅ |
 | <details><summary>[Langchain SQL Agent](https://python.langchain.com/docs/use_cases/sql/agents/)</summary>LangChain has a SQL Agent which provides a more flexible way of interacting with SQL Databases than a chain.</details> | | ✅ | | | | ✅ | | ✅ | |
 | <details><summary>[Vanna](https://vanna.ai/)</summary>The revolutionary open source Python package that's changing the game in SQL database interaction</details> | ✅ | ✅ | | | | ✅ | | | |
+| <details><summary>[Narrative BI](https://www.narrative.bi/ai-data-analyst)</summary> Chat with your data: integrates seamlessly with CSV/XLSX, GA4, Google Ads, Google Search Console, and more.</details> | ✅ | |  |  | | ✅ |  |  | ✅ |
 | <details><summary>[SQLChat](https://www.sqlchat.ai/)</summary>Chat-based SQL Client and Editor for the next decade</details> | ✅ | ✅ | | | | ✅ | | | |
 | <details><summary>[Fluent](https://www.fluenthq.com)</summary>Self-serve your company's data insights with AI</details> | | | ✅ | ✅ | | ✅ | | | |
 | <details><summary>[VazyData](https://www.vazydata.com/)</summary>Vazy is a simple and intuitive data analysis co-pilot that helps you manage your decisions with ease and speed.</details> | ✅ | | ✅ | | | ✅ | | |
