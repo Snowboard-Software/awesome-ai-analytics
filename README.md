@@ -11,14 +11,15 @@ A list of AI analytics tools (assistants, chat with data, text-to-sql models, be
 Table is filled based on information on companys landing page.  
 Disclaimer: this repo is maintained by the organization behind Dot.
 
-| Name         | Free Trial | Open Source | Slack | Teams | Email | SQL | Semantic Layer | Python | File Upload |
-|--------------|------------|-------------|-------|-------|-------|-------|--------|--------|--------|
-| <details><summary>[Dot](https://www.getdot.ai/)</summary>Dot, the data bot enables true Analytics Self-Service for business stakeholders. Free your data team to focus on high impact tasks by automating ad-hoc requests and more.</details> | ✅ | | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ |
-| <details><summary>[TextQL](https://www.textql.com/)</summary>Ana is your team's personal data scientist</details> | | | ✅ | ✅ | | ✅ | ✅ | | |
+| Name         | Free Trial | Open Source | Slack | Teams | Email | SQL | Semantic Layer | Python | File Upload | BI Tools |
+|--------------|------------|-------------|-------|-------|-------|-------|--------|--------|--------|--|
+| <details><summary>[Dot](https://www.getdot.ai/)</summary>Dot, the data bot enables true Analytics Self-Service for business stakeholders. Free your data team to focus on high impact tasks by automating ad-hoc requests and more.</details> | ✅ | | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | |
+| <details><summary>[TextQL](https://www.textql.com/)</summary>Ana is your team's personal data scientist</details> | | | ✅ | ✅ | | ✅ | ✅ | | | |
 | <details><summary>[dataherald](https://www.dataherald.com/)</summary>Embed Text-to-SQL right into your product with our versatile API. Get started free</details> | ✅ | ✅ | ✅ | | | ✅ | | | |
 | <details><summary>[Julius](https://julius.ai/)</summary>Chat with your files and get expert-level insights in seconds.</details> | ✅ | | | | | ✅ | | ✅ | ✅ |
 | <details><summary>[Athena Intelligence](https://www.athenaintelligence.ai/)</summary>Meet Athena, the 24/7 Enterprise AI Data Analyst.</details> |  | |  |  | ✅ | ✅ |  | ✅ | ✅ |
 | <details><summary>[Lumi AI](https://www.lumi-ai.com/)</summary>Enterprise Analytics Made Simple and Conversational. Instantly find actionable insights that drive financial results from large operational data using plain language prompts.</details> |  | | ✅ | ✅ | | ✅ |  | ✅ |  |
+| <details><summary>[Minus X](https://minusx.ai/)</summary>AI Data Scientist for Jupyter/Metabase. A Chrome Extension that operates your analytics apps for you. MinusX is the fastest way to get insights from data.</details> | ✅ | | | | | ✅ | |✅ | |✅|
 | <details><summary>[OpenAI Data Analyst](https://chat.openai.com/g/g-HMNcP6w7d-data-analyst)</summary>Drop in any files and I can help analyze and visualize your data.</details> | ✅ | | | | | | | ✅ | ✅ |
 | <details><summary>[Langchain SQL Agent](https://python.langchain.com/docs/use_cases/sql/agents/)</summary>LangChain has a SQL Agent which provides a more flexible way of interacting with SQL Databases than a chain.</details> | | ✅ | | | | ✅ | | ✅ | |
 | <details><summary>[Vanna](https://vanna.ai/)</summary>The revolutionary open source Python package that's changing the game in SQL database interaction</details> | ✅ | ✅ | | | | ✅ | | | |
