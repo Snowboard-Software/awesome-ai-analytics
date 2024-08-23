@@ -27,6 +27,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[SQLChat](https://www.sqlchat.ai/)</summary>Chat-based SQL Client and Editor for the next decade</details> | ✅ | ✅ | | | | ✅ | | | |
 | <details><summary>[Fluent](https://www.fluenthq.com)</summary>Self-serve your company's data insights with AI</details> | | | ✅ | ✅ | | ✅ | | | |
 | <details><summary>[VazyData](https://www.vazydata.com/)</summary>Vazy is a simple and intuitive data analysis co-pilot that helps you manage your decisions with ease and speed.</details> | ✅ | | ✅ | | | ✅ | | |
+| <details><summary>[Sulie](https://sulie.co/)</summary>The data analysis copilot for your data. Analyze data or make data predictions in plain english, right when you need it.</details> | ✅ | | ✅ | | | ✅ |  |  |  | |
 | <details><summary>[Databricks Genie](https://www.databricks.com/product/ai-bi/genie)</summary>AI/BI Genie. Converse with your data.</details> | ✅ | |  |  | | ✅ |  |  |  | |
 | <details><summary>[Defog](https://defog.ai/)</summary>Speed up data analyses in SQL, Python and R with AI assistants and agents tailored for your business - without sharing your data.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[Vizly](https://vizly.fyi/)</summary>Vizly is an AI-powered data scientist that lets you chat with your data, visualize insights, and perform analysis.</details> | ✅ | | | | | | | ✅ | ✅ |
