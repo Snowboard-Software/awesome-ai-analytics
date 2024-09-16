@@ -14,6 +14,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | Name         | Free Trial | Open Source | Slack | Teams | Email | SQL | Semantic Layer | Python | File Upload | BI Tools |
 |--------------|------------|-------------|-------|-------|-------|-------|--------|--------|--------|--|
 | <details><summary>[Dot](https://www.getdot.ai/)</summary>Dot, the data bot enables true Analytics Self-Service for business stakeholders. Free your data team to focus on high impact tasks by automating ad-hoc requests and more.</details> | ✅ | | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | |
+| <details><summary>[Zenlytic](https://www.zenlytic.com/)</summary>Business Intelligence you can talk to. Tap into BI that answers your data questions in seconds, eliminating your reliance on a time-strapped analytics team. </details> | | | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
 | <details><summary>[TextQL](https://www.textql.com/)</summary>Ana is your team's personal data scientist</details> | | | ✅ | ✅ | | ✅ | ✅ | | | |
 | <details><summary>[dataherald](https://www.dataherald.com/)</summary>Embed Text-to-SQL right into your product with our versatile API. Get started free</details> | ✅ | ✅ | ✅ | | | ✅ | | | |
 | <details><summary>[Julius](https://julius.ai/)</summary>Chat with your files and get expert-level insights in seconds.</details> | ✅ | | | | | ✅ | | ✅ | ✅ |
@@ -39,7 +40,6 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[AIQuery](https://aiquery.co)</summary>Use simple English and let AI do the heavy lifting for you. With AI Query anyone can create efficient SQL queries, without even knowing a thing about it.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[SimplyPut](https://simplyput.ai/)</summary>SimplyPut empowers your company to chat with data using AI. Trust the answers you receive and make data accessible and understandable for all.</details> | | | ✅ | | | ✅ | | |
 | <details><summary>[Buster](https://www.buster.so/)</summary>Build, monitor, and deploy a SQL API that's trained on your database. Manage security, performance, and access controls from one place.</details> | ✅ | | | | | ✅ | | |
-| <details><summary>[Zenlytic](https://www.zenlytic.com/)</summary>Business Intelligence you can talk to. Tap into BI that answers your data questions in seconds, eliminating your reliance on a time-strapped analytics team. </details> | | | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
 | <details><summary>[SQLAI](https://www.sqlai.ai/)</summary>AI generates, fixes, explains and optimizes SQL queries. Add your database schema and effortlessly train AI to understand it using AI-powered vector search. This ensures unparalleled accuracy.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[AskYourDatabase](https://www.askyourdatabase.com/)</summary>No SQL, Connect your database and chat with your data in ChatGPT.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[ChatDB](https://www.chatdb.ai/)</summary>Build powerful, beautiful dashboards with no code!</details> | ✅ | | | | | ✅ | | |
