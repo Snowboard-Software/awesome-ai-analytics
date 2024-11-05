@@ -11,16 +11,18 @@ A list of AI analytics tools (assistants, chat with data, text-to-sql models, be
 Table is filled based on information on companys landing page.  
 Disclaimer: this repo is maintained by the organization behind Dot.
 
-| Name         | Free Trial | Open Source | Slack | Teams | Email | SQL | Semantic Layer | Python | File Upload | BI Tools |
+| Name         | Free Trial | Open Source | Slack | Teams | Email | SQL | Semantic Layer | Python | File Upload | BI Tool Integrations |
 |--------------|------------|-------------|-------|-------|-------|-------|--------|--------|--------|--|
-| <details><summary>[Dot](https://www.getdot.ai/)</summary>Dot, the data bot enables true Analytics Self-Service for business stakeholders. Free your data team to focus on high impact tasks by automating ad-hoc requests and more.</details> | ✅ | | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | |
-| <details><summary>[Zenlytic](https://www.zenlytic.com/)</summary>Business Intelligence you can talk to. Tap into BI that answers your data questions in seconds, eliminating your reliance on a time-strapped analytics team. </details> | | | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | ✅
+| <details><summary>[Dot](https://www.getdot.ai/)</summary>Dot, the data bot enables true Analytics Self-Service for business stakeholders. Free your data team to focus on high impact tasks by automating ad-hoc requests and more.</details> | ✅ | | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | Looker |
+| <details><summary>[Zenlytic](https://www.zenlytic.com/)</summary>Business Intelligence you can talk to. Tap into BI that answers your data questions in seconds, eliminating your reliance on a time-strapped analytics team. </details> | | | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | self build
 | <details><summary>[TextQL](https://www.textql.com/)</summary>Ana is your team's personal data scientist</details> | | | ✅ | ✅ | | ✅ | ✅ | | | |
 | <details><summary>[dataherald](https://www.dataherald.com/)</summary>Embed Text-to-SQL right into your product with our versatile API. Get started free</details> | ✅ | ✅ | ✅ | | | ✅ | | | |
 | <details><summary>[Julius](https://julius.ai/)</summary>Chat with your files and get expert-level insights in seconds.</details> | ✅ | | | | | ✅ | | ✅ | ✅ |
 | <details><summary>[Athena Intelligence](https://www.athenaintelligence.ai/)</summary>Meet Athena, the 24/7 Enterprise AI Data Analyst.</details> |  | |  |  | ✅ | ✅ |  | ✅ | ✅ |
 | <details><summary>[Lumi AI](https://www.lumi-ai.com/)</summary>Enterprise Analytics Made Simple and Conversational. Instantly find actionable insights that drive financial results from large operational data using plain language prompts.</details> |  | | ✅ | ✅ | | ✅ |  | ✅ |  |
-| <details><summary>[Minus X](https://minusx.ai/)</summary>AI Data Scientist for Jupyter/Metabase. A Chrome Extension that operates your analytics apps for you. MinusX is the fastest way to get insights from data.</details> | ✅ | | | | | ✅ | |✅ | |✅|
+| <details><summary>[Minus X](https://minusx.ai/)</summary>AI Data Scientist for Jupyter/Metabase. A Chrome Extension that operates your analytics apps for you. MinusX is the fastest way to get insights from data.</details> | ✅ | | | | | ✅ | |✅ | | Metabase, Jupyter |
+| <details><summary>[Anthropic Financial Analyst](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)</summary>A sophisticated Next.js application that combines Claude's capabilities with interactive data visualization to analyze financial data via chat. (Quickstart Guide)</details> | ✅ | ✅ | | | | ✅ | | |✅ |
+| <details><summary>[Microsoft Data Formulator](https://github.com/microsoft/data-formulator)</summary>Transform data and create rich visualizations iteratively with AI 🪄. Try Data Formulator now in GitHub Codespaces!</details> | ✅ | ✅ | | | | | | ✅ | ✅ | self build
 | <details><summary>[OpenAI Data Analyst](https://chat.openai.com/g/g-HMNcP6w7d-data-analyst)</summary>Drop in any files and I can help analyze and visualize your data.</details> | ✅ | | | | | | | ✅ | ✅ |
 | <details><summary>[Langchain SQL Agent](https://python.langchain.com/docs/use_cases/sql/agents/)</summary>LangChain has a SQL Agent which provides a more flexible way of interacting with SQL Databases than a chain.</details> | | ✅ | | | | ✅ | | ✅ | |
 | <details><summary>[Vanna](https://vanna.ai/)</summary>The revolutionary open source Python package that's changing the game in SQL database interaction</details> | ✅ | ✅ | | | | ✅ | | | |
@@ -32,6 +34,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[Databricks Genie](https://www.databricks.com/product/ai-bi/genie)</summary>AI/BI Genie. Converse with your data.</details> | ✅ | |  |  | | ✅ |  |  |  | |
 | <details><summary>[Defog](https://defog.ai/)</summary>Speed up data analyses in SQL, Python and R with AI assistants and agents tailored for your business - without sharing your data.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[Vizly](https://vizly.fyi/)</summary>Vizly is an AI-powered data scientist that lets you chat with your data, visualize insights, and perform analysis.</details> | ✅ | | | | | | | ✅ | ✅ |
+| <details><summary>[Shape](https://shape.xyz/)</summary>Query your database in plain english</details> |  |  | ✅ | | | ✅ | | | |
 | <details><summary>[Seek](https://www.seek.ai/)</summary>Seek is a Generative AI platform that empowers business users to query their data sets and frees up data science teams from ad-hoc requests for analysis.</details> | | | ✅ | | | ✅ | | |
 | <details><summary>[Athenic](https://www.athenic.com/)</summary>AI-enabled analytics platform for all business teams, no technical knowledge required</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[Delphi](https://www.delphihq.com)</summary>Connect your data, build charts and dashboards, and get blazing fast insights using AI. Securely, privately, and quickly.</details> | | | ✅ | | | | ✅ | |
