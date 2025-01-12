@@ -53,6 +53,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[TalkToYourDatabase](https://talktoyourdatabase.com/)</summary>STOP WASTING YOUR TIME WRITING SQL</details> | | | | | | ✅ | | |
 | <details><summary>[number station](https://numbersstation.ai/)</summary>Free the power of your data with Numbers Station, the multi-agent AI-native analytics platform.</details> | | | | | | ✅ | | | |
 | <details><summary>[DataGPT](https://datagpt.com/)</summary>The First Conversational AI Data Analyst. Ask DataGPT any question and get analyst-grade answers in seconds.</details> | | | | | | ✅ | | | |
+| <details><summary>[Othor AI](https://www.othor.ai/)</summary>Othor is an AI-native fast, simple, and secure alternative to popular business intelligence solutions. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in seconds.</details> | ✅ | ✅ | | | | ✅ | ✅ | | ✅ |  |
 
 
 Honourable Mentions of established tools that integrate AI and Natural Language Interfaces:
