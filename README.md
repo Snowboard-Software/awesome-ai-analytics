@@ -15,6 +15,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 |--------------|------------|-------------|-------|-------|-------|-------|--------|--------|--------|--|
 | <details><summary>[Dot](https://www.getdot.ai/)</summary>Dot, the data bot enables true Analytics Self-Service for business stakeholders. Free your data team to focus on high impact tasks by automating ad-hoc requests and more.</details> | ✅ | | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | Looker |
 | <details><summary>[Zenlytic](https://www.zenlytic.com/)</summary>Business Intelligence you can talk to. Tap into BI that answers your data questions in seconds, eliminating your reliance on a time-strapped analytics team. </details> | | | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | self build
+| <details><summary>[Othor AI](https://www.othor.ai/)</summary>Othor is an AI-native fast, simple, and secure alternative to popular business intelligence solutions. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in seconds.</details> | ✅ | ✅ | | | | ✅ | ✅ | | ✅ |  |
 | <details><summary>[TextQL](https://www.textql.com/)</summary>Ana is your team's personal data scientist</details> | | | ✅ | ✅ | | ✅ | ✅ | | | |
 | <details><summary>[dataherald](https://www.dataherald.com/)</summary>Embed Text-to-SQL right into your product with our versatile API. Get started free</details> | ✅ | ✅ | ✅ | | | ✅ | | | |
 | <details><summary>[Julius](https://julius.ai/)</summary>Chat with your files and get expert-level insights in seconds.</details> | ✅ | | | | | ✅ | | ✅ | ✅ |
@@ -53,7 +54,6 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[TalkToYourDatabase](https://talktoyourdatabase.com/)</summary>STOP WASTING YOUR TIME WRITING SQL</details> | | | | | | ✅ | | |
 | <details><summary>[number station](https://numbersstation.ai/)</summary>Free the power of your data with Numbers Station, the multi-agent AI-native analytics platform.</details> | | | | | | ✅ | | | |
 | <details><summary>[DataGPT](https://datagpt.com/)</summary>The First Conversational AI Data Analyst. Ask DataGPT any question and get analyst-grade answers in seconds.</details> | | | | | | ✅ | | | |
-| <details><summary>[Othor AI](https://www.othor.ai/)</summary>Othor is an AI-native fast, simple, and secure alternative to popular business intelligence solutions. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in seconds.</details> | ✅ | ✅ | | | | ✅ | ✅ | | ✅ |  |
 
 
 Honourable Mentions of established tools that integrate AI and Natural Language Interfaces:
