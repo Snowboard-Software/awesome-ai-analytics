@@ -20,7 +20,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[dataherald](https://www.dataherald.com/)</summary>Embed Text-to-SQL right into your product with our versatile API. Get started free</details> | ✅ | ✅ | ✅ | | | ✅ | | | |
 | <details><summary>[Julius](https://julius.ai/)</summary>Chat with your files and get expert-level insights in seconds.</details> | ✅ | | | | | ✅ | | ✅ | ✅ |
 | <details><summary>[Athena Intelligence](https://www.athenaintelligence.ai/)</summary>Meet Athena, the 24/7 Enterprise AI Data Analyst.</details> |  | |  |  | ✅ | ✅ |  | ✅ | ✅ |
-| <details><summary>[Lumi AI](https://www.lumi-ai.com/)</summary>Enterprise Analytics Made Simple and Conversational. Instantly find actionable insights that drive financial results from large operational data using plain language prompts.</details> |  | | ✅ | ✅ | | ✅ |  | ✅ |  |
+| <details><summary>[Lumi AI](https://www.lumi-ai.com/)</summary>Enterprise Analytics Made Simple and Conversational. Instantly find actionable insights that drive financial results from large operational data using plain language prompts.</details> |✅ | | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | <details><summary>[Minus X](https://minusx.ai/)</summary>AI Data Scientist for Jupyter/Metabase. A Chrome Extension that operates your analytics apps for you. MinusX is the fastest way to get insights from data.</details> | ✅ | | | | | ✅ | |✅ | | Metabase, Jupyter |
 | <details><summary>[Anthropic Financial Analyst](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)</summary>A sophisticated Next.js application that combines Claude's capabilities with interactive data visualization to analyze financial data via chat. (Quickstart Guide)</details> | ✅ | ✅ | | | | ✅ | | |✅ |
 | <details><summary>[Microsoft Data Formulator](https://github.com/microsoft/data-formulator)</summary>Transform data and create rich visualizations iteratively with AI 🪄. Try Data Formulator now in GitHub Codespaces!</details> | ✅ | ✅ | | | | | | ✅ | ✅ | self build
@@ -88,4 +88,5 @@ Honourable Mentions of established tools that integrate AI and Natural Language 
 
 
 Inspired by [Awesome-Code-AI](https://github.com/sourcegraph/awesome-code-ai).
+
 
