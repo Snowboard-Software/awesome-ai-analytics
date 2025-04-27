@@ -38,6 +38,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[Databricks Genie](https://www.databricks.com/product/ai-bi/genie)</summary>AI/BI Genie. Converse with your data.</details> | ✅ | |  |  | | ✅ |  |  |  | |
 | <details><summary>[Defog](https://defog.ai/)</summary>Speed up data analyses in SQL, Python and R with AI assistants and agents tailored for your business - without sharing your data.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[Vizly](https://vizly.fyi/)</summary>Vizly is an AI-powered data scientist that lets you chat with your data, visualize insights, and perform analysis.</details> | ✅ | | | | | | | ✅ | ✅ |
+| <details><summary>[Seda.ai](https://www.seda.ai/)</summary>Your AI data assistant. Your AI data analyst is here. Query, visualize, document, and find insights instantly.</details> | ✅ | | | | | ✅ | | | | |
 | <details><summary>[Shape](https://shape.xyz/)</summary>Query your database in plain english</details> |  |  | ✅ | | | ✅ | | | |
 | <details><summary>[Seek](https://www.seek.ai/)</summary>Seek is a Generative AI platform that empowers business users to query their data sets and frees up data science teams from ad-hoc requests for analysis.</details> | | | ✅ | | | ✅ | | |
 | <details><summary>[Athenic](https://www.athenic.com/)</summary>AI-enabled analytics platform for all business teams, no technical knowledge required</details> | ✅ | | | | | ✅ | | |
