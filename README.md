@@ -24,10 +24,12 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[Supersimple](https://www.supersimple.io/)</summary>Self-service BI that lets anyone accurately answer complex ad-hoc data questions. Supersimple's AI fully explains its work using no-code steps instead of generating hard-to-read SQL.</details> |  | | ✅ | | | ✅ | ✅ | ✅ |  |
 | <details><summary>[Lumi AI](https://www.lumi-ai.com/)</summary>Enterprise Analytics Made Simple and Conversational. Instantly find actionable insights that drive financial results from large operational data using plain language prompts.</details> |✅ | | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | <details><summary>[Minus X](https://minusx.ai/)</summary>AI Data Scientist for Jupyter/Metabase. A Chrome Extension that operates your analytics apps for you. MinusX is the fastest way to get insights from data.</details> | ✅ | | | | | ✅ | |✅ | | Metabase, Jupyter |
-| <details><summary>[BaseDash](https://www.basedash.com/)</summary>The AI-native Business Intelligence Platform. Generate beautiful charts and dashboards to understand your customers and business using natural language.</details> | ✅ | |  |  | | ✅ |  |  | ✅ | self build |
 | <details><summary>[Anthropic Financial Analyst](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)</summary>A sophisticated Next.js application that combines Claude's capabilities with interactive data visualization to analyze financial data via chat. (Quickstart Guide)</details> | ✅ | ✅ | | | | ✅ | | |✅ |
 | <details><summary>[Microsoft Data Formulator](https://github.com/microsoft/data-formulator)</summary>Transform data and create rich visualizations iteratively with AI 🪄. Try Data Formulator now in GitHub Codespaces!</details> | ✅ | ✅ | | | | | | ✅ | ✅ | self build
 | <details><summary>[OpenAI Data Analyst](https://chat.openai.com/g/g-HMNcP6w7d-data-analyst)</summary>Drop in any files and I can help analyze and visualize your data.</details> | ✅ | | | | | | | ✅ | ✅ |
+| <details><summary>[BaseDash](https://www.basedash.com/)</summary>The AI-native Business Intelligence Platform. Generate beautiful charts and dashboards to understand your customers and business using natural language.</details> | ✅ | |  |  | | ✅ |  |  | ✅ | self build |
+| <details><summary>[Tellius](https://tellius.com/)</summary>Decision-intelligence platform with AI agents that automate multi-step analysis and surface actionable insights for business teams.</details> | ✅ | | | | | ✅ | ✅ | | | |
+| <details><summary>[Brewit](https://brewit.ai/)</summary>An AI-powered analytics copilot that lets you chat with your database, visualize insights, and build dashboards in seconds.</details> | ✅ | | | | | ✅ | ✅ | | | |
 | <details><summary>[Langchain SQL Agent](https://python.langchain.com/docs/use_cases/sql/agents/)</summary>LangChain has a SQL Agent which provides a more flexible way of interacting with SQL Databases than a chain.</details> | | ✅ | | | | ✅ | | ✅ | |
 | <details><summary>[Vanna](https://vanna.ai/)</summary>The revolutionary open source Python package that's changing the game in SQL database interaction</details> | ✅ | ✅ | | | | ✅ | | | |
 | <details><summary>[Narrative BI](https://www.narrative.bi/ai-data-analyst)</summary> Chat with your data: integrates seamlessly with CSV/XLSX, GA4, Google Ads, Google Search Console, and more.</details> | ✅ | |  |  | | ✅ |  |  | ✅ |
@@ -39,6 +41,10 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[Defog](https://defog.ai/)</summary>Speed up data analyses in SQL, Python and R with AI assistants and agents tailored for your business - without sharing your data.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[Vizly](https://vizly.fyi/)</summary>Vizly is an AI-powered data scientist that lets you chat with your data, visualize insights, and perform analysis.</details> | ✅ | | | | | | | ✅ | ✅ |
 | <details><summary>[Seda.ai](https://www.seda.ai/)</summary>Your AI data assistant. Your AI data analyst is here. Query, visualize, document, and find insights instantly.</details> | ✅ | | | | | ✅ | | | | |
+| <details><summary>[Menza](https://menza.ai/)</summary>Latentspace’s Menza generates proactive insights and interactive dashboards from spreadsheets and databases via natural-language chat.</details> | ✅ | | | | | | | | ✅ | |
+| <details><summary>[Powerdrill](https://powerdrill.ai/)</summary>Chat with your SQL databases, get instant charts, and embed AI-generated dashboards to drive data-driven decisions 10× faster.</details> | ✅ | | | | | ✅ | | | | |
+| <details><summary>[AnswerRocket](https://answerrocket.com/)</summary>Augmented-analytics platform that answers business questions in plain English and automatically uncovers key drivers and anomalies.</details> | | | | | | ✅ | ✅ | | | |
+| <details><summary>[SQLPilot](https://sqlpilot.ai/)</summary>Natural-language SQL editor that converts prompts into optimized queries across unlimited database connections and supports RAG-based schema context.</details> | ✅ | | | | | ✅ | | | | |
 | <details><summary>[Shape](https://shape.xyz/)</summary>Query your database in plain english</details> |  |  | ✅ | | | ✅ | | | |
 | <details><summary>[Seek](https://www.seek.ai/)</summary>Seek is a Generative AI platform that empowers business users to query their data sets and frees up data science teams from ad-hoc requests for analysis.</details> | | | ✅ | | | ✅ | | |
 | <details><summary>[Athenic](https://www.athenic.com/)</summary>AI-enabled analytics platform for all business teams, no technical knowledge required</details> | ✅ | | | | | ✅ | | |
@@ -89,6 +95,11 @@ Honourable Mentions of established tools that integrate AI and Natural Language 
 - [Fiben Benchmark (IBM)](https://github.com/IBM/fiben-benchmark)
 - [UNITE, A Unified Benchmark for Text-to-SQL Evaluation (AWS)](https://github.com/awslabs/unified-text2sql-benchmark)
 - [SQL Eval (Defog AI)](https://github.com/defog-ai/sql-eval)
+- [DABStep (Adyen)](https://huggingface.co/blog/dabstep)
+
+
+## MCP Servers
+- [dbt MCP Server](https://github.com/dbt-labs/dbt-mcp)
 
 
 Inspired by [Awesome-Code-AI](https://github.com/sourcegraph/awesome-code-ai).
