@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/snowboard-software-awesome-ai-analytics-badge.png)](https://mseep.ai/app/snowboard-software-awesome-ai-analytics)
+
 # Awesome-Ai-Analytics
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
