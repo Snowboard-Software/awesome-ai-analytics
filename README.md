@@ -103,6 +103,7 @@ Honourable Mentions of established tools that integrate AI and Natural Language 
 
 ## MCP Servers
 - [dbt MCP Server](https://github.com/dbt-labs/dbt-mcp)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz/mcp) - MCP server for AI agent trust scoring on Solana. Verify agent wallet identity before autonomous database mutations. Free: `score_agent`, `preflight_check`. Paid x402: `get_trust_receipt`
 
 
 Inspired by [Awesome-Code-AI](https://github.com/sourcegraph/awesome-code-ai).
