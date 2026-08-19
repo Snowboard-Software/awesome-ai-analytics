@@ -17,7 +17,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[Zenlytic](https://www.zenlytic.com/)</summary>Business Intelligence you can talk to. Tap into BI that answers your data questions in seconds, eliminating your reliance on a time-strapped analytics team. </details> | | | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | self build
 | <details><summary>[TextQL](https://www.textql.com/)</summary>Ana is your team's personal data scientist</details> | | | ✅ | ✅ | | ✅ | ✅ | | | |
 | <details><summary>[Fabi.ai](https://fabi.ai/)</summary>The AI data analyst you've been waiting for. Fabi.ai combines SQL, Python and AI automation into one collaborative platform.</details>  | ✅          |             |       |       |       | ✅   | ✅              | ✅      | ✅           | self build |
-| <details><summary>[dataherald](https://www.dataherald.com/)</summary>Embed Text-to-SQL right into your product with our versatile API. Get started free</details> | ✅ | ✅ | ✅ | | | ✅ | | | |
+| 🪦 Dataherald (shut down; domain lapsed) | ✅ | ✅ | ✅ | | | ✅ | | | |
 | <details><summary>[Othor AI](https://www.othor.ai/)</summary>Othor is an AI-native fast, simple, and secure alternative to popular business intelligence solutions. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in seconds.</details> | ✅ |  | | | | ✅ | ✅ | | ✅ |  |
 | <details><summary>[ExcelDashboard.ai](https://exceldashboard.ai/)</summary>AI-Powered Data Report Agent. From Raw Data to 20+ Pages of McKinsey-Level Analysis Report — In One Click.</details> | ✅ | | | | ✅ | ✅ | | ✅ | ✅ |
 | <details><summary>[Julius](https://julius.ai/)</summary>Chat with your files and get expert-level insights in seconds.</details> | ✅ | | | | | ✅ | | ✅ | ✅ |
@@ -36,37 +36,37 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[PromptQL](https://promptql.io)</summary>Enterprise AI analyst from Hasura with an agentic semantic layer. Queries 70+ data sources via federated execution, supports Python-based automation programs, and integrates with Claude via MCP.</details> | | | | | | ✅ | ✅ | ✅ | | |
 | <details><summary>[Vanna](https://vanna.ai/)</summary>The revolutionary open source Python package that's changing the game in SQL database interaction</details> | ✅ | ✅ | | | | ✅ | | | |
 | <details><summary>[Narrative BI](https://www.narrative.bi/ai-data-analyst)</summary> Chat with your data: integrates seamlessly with CSV/XLSX, GA4, Google Ads, Google Search Console, and more.</details> | ✅ | |  |  | | ✅ |  |  | ✅ |
-| <details><summary>[SQLChat](https://www.sqlchat.ai/)</summary>Chat-based SQL Client and Editor for the next decade</details> | ✅ | ✅ | | | | ✅ | | | |
-| <details><summary>[Fluent](https://www.fluenthq.com)</summary>Self-serve your company's data insights with AI</details> | | | ✅ | ✅ | | ✅ | | | |
+| 🪦 SQLChat (absorbed into Bytebase) | ✅ | ✅ | | | | ✅ | | | |
+| 🪦 Fluent (pivoted to marketing-agency reporting) | | | ✅ | ✅ | | ✅ | | | |
 | <details><summary>[VazyData](https://www.vazydata.com/)</summary>Vazy is a simple and intuitive data analysis co-pilot that helps you manage your decisions with ease and speed.</details> | ✅ | | ✅ | | | ✅ | | |
-| <details><summary>[Sulie](https://sulie.co/)</summary>The data analysis copilot for your data. Analyze data or make data predictions in plain english, right when you need it.</details> | ✅ | | ✅ | | | ✅ |  |  |  | |
+| 🪦 Sulie (shut down) | ✅ | | ✅ | | | ✅ |  |  |  | |
 | <details><summary>[Databricks Genie](https://www.databricks.com/product/ai-bi/genie)</summary>AI/BI Genie. Converse with your data.</details> | ✅ | |  |  | | ✅ |  |  |  | |
 | <details><summary>[Defog](https://defog.ai/)</summary>Speed up data analyses in SQL, Python and R with AI assistants and agents tailored for your business - without sharing your data.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[Vizly](https://vizly.fyi/)</summary>Vizly is an AI-powered data scientist that lets you chat with your data, visualize insights, and perform analysis.</details> | ✅ | | | | | | | ✅ | ✅ |
-| <details><summary>[Seda.ai](https://www.seda.ai/)</summary>Your AI data assistant. Your AI data analyst is here. Query, visualize, document, and find insights instantly.</details> | ✅ | | | | | ✅ | | | | |
-| <details><summary>[Menza](https://menza.ai/)</summary>Latentspace’s Menza generates proactive insights and interactive dashboards from spreadsheets and databases via natural-language chat.</details> | ✅ | | | | | | | | ✅ | |
+| 🪦 Seda.ai (shut down) | ✅ | | | | | ✅ | | | | |
+| 🪦 Menza (pivoted away from analytics) | ✅ | | | | | | | | ✅ | |
 | <details><summary>[Powerdrill](https://powerdrill.ai/)</summary>Chat with your SQL databases, get instant charts, and embed AI-generated dashboards to drive data-driven decisions 10× faster.</details> | ✅ | | | | | ✅ | | | | |
 | <details><summary>[AnswerRocket](https://answerrocket.com/)</summary>Augmented-analytics platform that answers business questions in plain English and automatically uncovers key drivers and anomalies.</details> | | | | | | ✅ | ✅ | | | |
 | <details><summary>[SQLPilot](https://sqlpilot.ai/)</summary>Natural-language SQL editor that converts prompts into optimized queries across unlimited database connections and supports RAG-based schema context.</details> | ✅ | | | | | ✅ | | | | |
 | <details><summary>[Shape](https://shape.xyz/)</summary>Query your database in plain english</details> |  |  | ✅ | | | ✅ | | | |
-| <details><summary>[Seek](https://www.seek.ai/)</summary>Seek is a Generative AI platform that empowers business users to query their data sets and frees up data science teams from ad-hoc requests for analysis.</details> | | | ✅ | | | ✅ | | |
+| 🪦 Seek (acquired by IBM 2025) | | | ✅ | | | ✅ | | |
 | <details><summary>[Athenic](https://www.athenic.com/)</summary>AI-enabled analytics platform for all business teams, no technical knowledge required</details> | ✅ | | | | | ✅ | | |
-| <details><summary>[Delphi](https://www.delphihq.com)</summary>Connect your data, build charts and dashboards, and get blazing fast insights using AI. Securely, privately, and quickly.</details> | | | ✅ | | | | ✅ | |
-| <details><summary>[Outerbase](https://www.outerbase.com/)</summary>AI-powered database platform for viewing, querying, visualizing, and editing your data.</details> | ✅ | | | | | ✅ | | |
-| <details><summary>[Patterns](https://patterns.app/)</summary>An expert in your data stack, AI works as an extension to your company's data analysts. You can get in touch via chat, email, or by submitting a ticket.</details> | | | | | ✅ | ✅ | | |
+| 🪦 Delphi (shut down; domain lapsed) | | | ✅ | | | | ✅ | |
+| 🪦 Outerbase (acquired by Cloudflare 2025; service sunset) | ✅ | | | | | ✅ | | |
+| 🪦 Patterns (shut down) | | | | | ✅ | ✅ | | |
 | <details><summary>[AIQuery](https://aiquery.co)</summary>Use simple English and let AI do the heavy lifting for you. With AI Query anyone can create efficient SQL queries, without even knowing a thing about it.</details> | ✅ | | | | | ✅ | | |
-| <details><summary>[SimplyPut](https://simplyput.ai/)</summary>SimplyPut empowers your company to chat with data using AI. Trust the answers you receive and make data accessible and understandable for all.</details> | | | ✅ | | | ✅ | | |
-| <details><summary>[Buster](https://www.buster.so/)</summary>Build, monitor, and deploy a SQL API that's trained on your database. Manage security, performance, and access controls from one place.</details> | ✅ | | | | | ✅ | | |
+| 🪦 SimplyPut (shut down) | | | ✅ | | | ✅ | | |
+| 🪦 Buster (pivoted away from analytics; now Keystroke) | ✅ | | | | | ✅ | | |
 | <details><summary>[SQLAI](https://www.sqlai.ai/)</summary>AI generates, fixes, explains and optimizes SQL queries. Add your database schema and effortlessly train AI to understand it using AI-powered vector search. This ensures unparalleled accuracy.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[AskYourDatabase](https://www.askyourdatabase.com/)</summary>No SQL, Connect your database and chat with your data in ChatGPT.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[ChatDB](https://www.chatdb.ai/)</summary>Build powerful, beautiful dashboards with no code!</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[DataChat](https://datachat.ai/)</summary>Meet the no-code, generative AI platform for instant analytics</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[AI Lens](https://www.lensvisual.io/)</summary>Supercharge Your Power BI Dashboards with OpenAI and ChatGPT</details> | ✅ | | | | | | | | |
-| <details><summary>[InsightBase](https://insightbase.ai/)</summary>Powerful AI-powered analytics for your business.</details> | ✅ | | | | | ✅ | | |
+| 🪦 InsightBase (shut down) | ✅ | | | | | ✅ | | |
 | <details><summary>[Louie](https://www.louie.ai/)</summary>Make talking to data a breeze with a genAI-first design that helps you query, analyze, visualize, and collaborate</details> | | | | | | ✅ | | |
 | <details><summary>[TalkToYourDatabase](https://talktoyourdatabase.com/)</summary>STOP WASTING YOUR TIME WRITING SQL</details> | | | | | | ✅ | | |
-| <details><summary>[number station](https://numbersstation.ai/)</summary>Free the power of your data with Numbers Station, the multi-agent AI-native analytics platform.</details> | | | | | | ✅ | | | |
-| <details><summary>[DataGPT](https://datagpt.com/)</summary>The First Conversational AI Data Analyst. Ask DataGPT any question and get analyst-grade answers in seconds.</details> | | | | | | ✅ | | | |
+| 🪦 Numbers Station (acquired by Alation 2025) | | | | | | ✅ | | | |
+| 🪦 DataGPT (shut down 2025) | | | | | | ✅ | | | |
 | <details><summary>[Bonnard](https://bonnard.dev)</summary>Open-source agentic schema for reliable data outputs. Define metrics once, query governed data from any warehouse via MCP, REST, or SQL.</details> | ✅ | ✅ | | | | ✅ | ✅ | | | Snowflake, BigQuery, Databricks, PostgreSQL, DuckDB |
 
 
