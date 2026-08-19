@@ -13,7 +13,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 
 | Name         | Free Trial | Open Source | Slack | Teams | Email | SQL | Semantic Layer | Python | File Upload | BI Tool Integrations |
 |--------------|------------|-------------|-------|-------|-------|-------|--------|--------|--------|--|
-| <details><summary>[Dot](https://www.getdot.ai/)</summary>Dot, the data bot enables true Analytics Self-Service for business stakeholders. Free your data team to focus on high impact tasks by automating ad-hoc requests and more.</details> | ✅ | | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | Looker, Tableau, Metabase |
+| <details><summary>[Dot](https://www.getdot.ai/)</summary>Dot, the data bot enables true Analytics Self-Service for business stakeholders. Free your data team to focus on high impact tasks by automating ad-hoc requests and more.</details> | ✅ | | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Looker, Tableau, Metabase, Power BI, Fabric |
 | <details><summary>[Zenlytic](https://www.zenlytic.com/)</summary>Business Intelligence you can talk to. Tap into BI that answers your data questions in seconds, eliminating your reliance on a time-strapped analytics team. </details> | | | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | self build
 | <details><summary>[TextQL](https://www.textql.com/)</summary>Ana is your team's personal data scientist</details> | | | ✅ | ✅ | | ✅ | ✅ | | | |
 | <details><summary>[Fabi.ai](https://fabi.ai/)</summary>The AI data analyst you've been waiting for. Fabi.ai combines SQL, Python and AI automation into one collaborative platform.</details>  | ✅          |             |       |       |       | ✅   | ✅              | ✅      | ✅           | self build |
@@ -112,6 +112,7 @@ Honourable Mentions of established tools that integrate AI and Natural Language 
 
 
 ## MCP Servers
+- [Dot MCP Server](https://docs.getdot.ai) - Chat with your governed data warehouse from Claude, ChatGPT, or Copilot via Dot's MCP server.
 - [Bonnard](https://github.com/bonnard-data/bonnard) - Open-source agentic schema with MCP server for querying governed warehouse data.
 - [dbt MCP Server](https://github.com/dbt-labs/dbt-mcp)
 
