@@ -40,7 +40,13 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | 🪦 Fluent (pivoted to marketing-agency reporting) | | | ✅ | ✅ | | ✅ | | | |
 | <details><summary>[VazyData](https://www.vazydata.com/)</summary>Vazy is a simple and intuitive data analysis co-pilot that helps you manage your decisions with ease and speed.</details> | ✅ | | ✅ | | | ✅ | | |
 | 🪦 Sulie (shut down) | ✅ | | ✅ | | | ✅ |  |  |  | |
-| <details><summary>[Databricks Genie](https://www.databricks.com/product/ai-bi/genie)</summary>AI/BI Genie. Converse with your data.</details> | ✅ | |  |  | | ✅ |  |  |  | |
+| <details><summary>[Databricks AI/BI Genie](https://www.databricks.com/product/ai-bi/genie)</summary>Get business insights through natural language, grounded in Unity Catalog semantics. Genie Agents can be added to apps like Microsoft Teams, Slack, or Glean.</details> | ✅ | | ✅ | ✅ | | ✅ | ✅ | | | |
+| <details><summary>[Snowflake Intelligence](https://www.snowflake.com/en/product/snowflake-intelligence/)</summary>Snowflake's conversational analytics agent built on Cortex Analyst and Cortex Agents: ask questions across structured and unstructured data in Snowflake.</details> | ✅ | | | | | ✅ | ✅ | | | |
+| <details><summary>[ThoughtSpot Spotter](https://www.thoughtspot.com/spotter)</summary>Agentic AI analyst from ThoughtSpot: converse with your data, with governed semantic models built by SpotterModel. Available in Slack, Salesforce, and via OpenAI/Claude integrations.</details> | ✅ | | ✅ | | | ✅ | ✅ | ✅ | | |
+| <details><summary>[Power BI Copilot](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction)</summary>Microsoft's generative AI assistant in Power BI / Fabric: chat with your data grounded in semantic models, report generation, and DAX authoring. Requires paid Fabric capacity. Classic Q&A retires in December 2026.</details> | | | | | | | ✅ | | | |
+| <details><summary>[Tableau Agent](https://www.tableau.com/products/tableau-agent)</summary>Tableau's AI assistant (formerly Einstein Copilot) in Tableau Cloud, Desktop, and Prep: explore data and build visualizations in natural language. Replaces the retired Ask Data.</details> | ✅ | | | | | | | | ✅ | |
+| <details><summary>[Amazon Quick](https://aws.amazon.com/quicksuite/)</summary>AWS's AI assistant suite (formerly QuickSight, then Quick Suite): agentic research, BI dashboards, flows, and automation over business data.</details> | ✅ | | ✅ | | | ✅ | | | ✅ | |
+| <details><summary>[Gemini in Looker](https://cloud.google.com/looker/docs/studio/conversational-analytics)</summary>Conversational Analytics: chat with your data in Looker, powered by Gemini and grounded in the LookML semantic layer. Advanced Analysis runs Gemini-generated Python; also available as an API.</details> | | | | | | ✅ | ✅ | ✅ | | |
 | <details><summary>[Defog](https://defog.ai/)</summary>Speed up data analyses in SQL, Python and R with AI assistants and agents tailored for your business - without sharing your data.</details> | ✅ | | | | | ✅ | | |
 | <details><summary>[Vizly](https://vizly.fyi/)</summary>Vizly is an AI-powered data scientist that lets you chat with your data, visualize insights, and perform analysis.</details> | ✅ | | | | | | | ✅ | ✅ |
 | 🪦 Seda.ai (shut down) | ✅ | | | | | ✅ | | | | |
@@ -71,11 +77,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 
 
 Honourable Mentions of established tools that integrate AI and Natural Language Interfaces:
-- [AWS Quicksight](https://aws.amazon.com/quicksight/) with [Natural Language Demo ](https://www.youtube.com/watch?v=0IBAS2GiWwo)
-- [PowerBI with QnA](https://powerbi.microsoft.com/fr-ca/blog/ask-your-data-questions-with-q-amp-a/)
-- [Tableau with Ask Data](https://help.tableau.com/current/pro/desktop/en-us/ask_data.htm)
-- [ThoughtSpot](https://www.thoughtspot.com/)
-- [Veezo](https://www.veezoo.com/)
+- [Veezoo](https://www.veezoo.com/)
   
 
 ## Models Optimized for Text 2 SQL
