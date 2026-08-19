@@ -67,6 +67,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[TalkToYourDatabase](https://talktoyourdatabase.com/)</summary>STOP WASTING YOUR TIME WRITING SQL</details> | | | | | | ✅ | | |
 | <details><summary>[number station](https://numbersstation.ai/)</summary>Free the power of your data with Numbers Station, the multi-agent AI-native analytics platform.</details> | | | | | | ✅ | | | |
 | <details><summary>[DataGPT](https://datagpt.com/)</summary>The First Conversational AI Data Analyst. Ask DataGPT any question and get analyst-grade answers in seconds.</details> | | | | | | ✅ | | | |
+| <details><summary>[Bonnard](https://bonnard.dev)</summary>Open-source agentic schema for reliable data outputs. Define metrics once, query governed data from any warehouse via MCP, REST, or SQL.</details> | ✅ | ✅ | | | | ✅ | ✅ | | | Snowflake, BigQuery, Databricks, PostgreSQL, DuckDB |
 
 
 Honourable Mentions of established tools that integrate AI and Natural Language Interfaces:
@@ -102,6 +103,7 @@ Honourable Mentions of established tools that integrate AI and Natural Language 
 
 
 ## MCP Servers
+- [Bonnard](https://github.com/bonnard-data/bonnard) - Open-source agentic schema with MCP server for querying governed warehouse data.
 - [dbt MCP Server](https://github.com/dbt-labs/dbt-mcp)
 
 
