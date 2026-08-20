@@ -46,6 +46,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[Seda.ai](https://www.seda.ai/)</summary>Your AI data assistant. Your AI data analyst is here. Query, visualize, document, and find insights instantly.</details> | ✅ | | | | | ✅ | | | | |
 | <details><summary>[Menza](https://menza.ai/)</summary>Latentspace’s Menza generates proactive insights and interactive dashboards from spreadsheets and databases via natural-language chat.</details> | ✅ | | | | | | | | ✅ | |
 | <details><summary>[Powerdrill](https://powerdrill.ai/)</summary>Chat with your SQL databases, get instant charts, and embed AI-generated dashboards to drive data-driven decisions 10× faster.</details> | ✅ | | | | | ✅ | | | | |
+| <details><summary>[AI for Database](https://aifordatabase.com/)</summary>Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. Supports PostgreSQL, MySQL, MongoDB, and more.</details> | ✅ | | | | ✅ | ✅ | | | | self build |
 | <details><summary>[AnswerRocket](https://answerrocket.com/)</summary>Augmented-analytics platform that answers business questions in plain English and automatically uncovers key drivers and anomalies.</details> | | | | | | ✅ | ✅ | | | |
 | <details><summary>[SQLPilot](https://sqlpilot.ai/)</summary>Natural-language SQL editor that converts prompts into optimized queries across unlimited database connections and supports RAG-based schema context.</details> | ✅ | | | | | ✅ | | | | |
 | <details><summary>[Shape](https://shape.xyz/)</summary>Query your database in plain english</details> |  |  | ✅ | | | ✅ | | | |
@@ -70,6 +71,8 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[Helix](https://helix.app.nz/)</summary>AI data analyst that turns CSVs and datasets into insights, automated reports, and natural-language text-to-chart visualizations.</details> | | | | | | | | | ✅ | |
 | <details><summary>[Bonnard](https://bonnard.dev)</summary>Open-source agentic schema for reliable data outputs. Define metrics once, query governed data from any warehouse via MCP, REST, or SQL.</details> | ✅ | ✅ | | | | ✅ | ✅ | | | Snowflake, BigQuery, Databricks, PostgreSQL, DuckDB |
 
+
+| <details><summary>[AI for Database](https://aifordatabase.com/)</summary>Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.</details> | ✅ | | | | ✅ | ✅ | | | | self build |
 
 Honourable Mentions of established tools that integrate AI and Natural Language Interfaces:
 - [AWS Quicksight](https://aws.amazon.com/quicksight/) with [Natural Language Demo ](https://www.youtube.com/watch?v=0IBAS2GiWwo)
