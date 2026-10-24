@@ -81,6 +81,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 | <details><summary>[Bonnard](https://bonnard.dev)</summary>Open-source agentic schema for reliable data outputs. Define metrics once, query governed data from any warehouse via MCP, REST, or SQL.</details> | ✅ | ✅ |  |  |  | ✅ | ✅ |  |  | Snowflake, BigQuery, Databricks, PostgreSQL, DuckDB |
 | <details><summary>[Helix](https://helix.app.nz/)</summary>AI data analyst that turns CSVs and datasets into insights, automated reports, and natural-language text-to-chart visualizations.</details> | ✅ |  |  |  |  | ✅ |  |  | ✅ |  |
 | <details><summary>[Lumenn AI](https://lumenn.ai/)</summary>AI-augmented analytics platform that turns natural language into instant insights, visualizations, and dashboards over sources like Snowflake, BigQuery, PostgreSQL, and Redshift.</details> | ✅ |  |  |  |  | ✅ | ✅ |  |  |  |
+| <details><summary>[Better Analyst](https://betteranalyst.com/)</summary>AI data analyst that connects GA4, Sheets, SQL and BigQuery, answers questions in plain English with the SQL/Python shown, and builds dashboards and scheduled reports.</details> | ✅ |  | ✅ |  | ✅ | ✅ |  | ✅ | ✅ |  |
 
 
 | <details><summary>[AI for Database](https://aifordatabase.com/)</summary>Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. Supports PostgreSQL, MySQL, MongoDB, and more.</details> | ✅ |  |  |  |  | ✅ | ✅ |  | ✅ |  |
