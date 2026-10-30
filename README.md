@@ -119,6 +119,7 @@ Frontier general-purpose LLMs have since replaced specialized text-to-SQL models
 - [Dot MCP Server](https://docs.getdot.ai) - Chat with your governed data warehouse from Claude, ChatGPT, or Copilot via Dot's MCP server.
 - [Bonnard](https://github.com/bonnard-data/bonnard) - Open-source agentic schema with MCP server for querying governed warehouse data.
 - [dbt MCP Server](https://github.com/dbt-labs/dbt-mcp)
+- [Showboard](https://github.com/rohanbeingsocial/showboard) - Open-source MCP server that answers data questions with dashboards from read-only SQL on Excel, CSV, Postgres or SQLite, in Claude Code, Codex, Cursor and other agents.
 
 
 Inspired by [Awesome-Code-AI](https://github.com/sourcegraph/awesome-code-ai).
