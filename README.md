@@ -84,6 +84,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 
 
 | <details><summary>[AI for Database](https://aifordatabase.com/)</summary>Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. Supports PostgreSQL, MySQL, MongoDB, and more.</details> | ✅ |  |  |  |  | ✅ | ✅ |  | ✅ |  |
+| <details><summary>[AVA](https://github.com/antvis/AVA)</summary>AntV's MIT-licensed TypeScript framework for agents to query files and databases, reuse business definitions, and generate interactive charts with inspectable queries and results.</details> |  | ✅ |  |  |  | ✅ | ✅ | ✅ | Local files |  |
 
 Honourable Mentions of established tools that integrate AI and Natural Language Interfaces:
 - [Veezoo](https://www.veezoo.com/)
