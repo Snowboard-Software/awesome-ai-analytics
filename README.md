@@ -84,6 +84,7 @@ Disclaimer: this repo is maintained by the organization behind Dot.
 
 
 | <details><summary>[AI for Database](https://aifordatabase.com/)</summary>Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. Supports PostgreSQL, MySQL, MongoDB, and more.</details> | ✅ |  |  |  |  | ✅ | ✅ |  | ✅ |  |
+| <details><summary>[Datlas](https://datlasdb.com/en/)</summary>Desktop data workspace for Windows and Linux: ask your database in plain language (Portuguese, English or Spanish), review the generated SQL, run it read-only, and turn results into charts, dashboards and alerts. No license fee for individual use; bring your own AI key or a local Ollama model.</details> | ✅ |  |  |  |  | ✅ |  |  | ✅ |  |
 
 Honourable Mentions of established tools that integrate AI and Natural Language Interfaces:
 - [Veezoo](https://www.veezoo.com/)
